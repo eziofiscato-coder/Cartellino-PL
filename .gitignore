@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.exe
+*.ico
+/dist/
+/build/
+*.xlsx
+*.csv
